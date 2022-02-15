@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ASHISH KUMAR</h1>
-<h3 align="center">A passionate web developerper from India</h3>
+<h3 align="center">A passionate frontend developerper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashket980&label=Profile%20views&color=0e75b6&style=flat" alt="ashket980" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashket980" alt="ashket980" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashishpotter919" target="blank"><img src="https://img.shields.io/twitter/follow/ashishpotter919?logo=twitter&style=for-the-badge" alt="ashishpotter919" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA, DSA**
 
@@ -13,8 +13,18 @@
 
 - 📫 How to reach me **ashket980@gmail.com**
 
+- ⚡ Fun fact **I am too much into FOOTBALL**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/ashket980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ashket980" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishpotter919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpotter919" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-00b2ba136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar-00b2ba136/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ashishkumar4359/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashishkumar4359/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/potter919?onboarding=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/potter919?onboarding=true" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ashket980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashket980" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ashket980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashket980/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ashket980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ashket980" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
