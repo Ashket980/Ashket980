@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASHISH KUMAR</h1>
-<h3 align="center">A passionate frontend developerper from India</h3>
+<h3 align="center">A passionate web developerper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashket980&label=Profile%20views&color=0e75b6&style=flat" alt="ashket980" /> </p>
 
