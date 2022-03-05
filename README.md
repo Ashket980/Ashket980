@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am too much into FOOTBALL**
 
 - Certificates : -https://www.hackerrank.com/certificates/95c716a449c9 <br />
- &nbsp; &nbsp; &nbsp; &nbsp;-https://www.hackerrank.com/certificates/a0634273bbee
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-https://www.hackerrank.com/certificates/a0634273bbee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
