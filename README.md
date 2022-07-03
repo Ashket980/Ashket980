@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am too much into FOOTBALL**
 
-- Certificates : [Problem solving(basic)]-https://www.hackerrank.com/certificates/95c716a449c9 <br />
+- Certificates : [Problem solving(basic)](https://www.hackerrank.com/certificates/95c716a449c9) <br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[Java(basic)](https://www.hackerrank.com/certificates/a0634273bbee)<br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-https://www.hackerrank.com/certificates/e529ef0db576<br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-https://shapeai-uploads.s3.ap-south-1.amazonaws.com/certificates/Z2um07h/19JF1c.pdf
